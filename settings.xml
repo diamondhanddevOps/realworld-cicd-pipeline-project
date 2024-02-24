@@ -15,7 +15,7 @@
     <repositories>
       <repository>
         <id>codeartifact</id>
-    <url>https://https://java-webapp-maven-repo-019150360982.d.codeartifact.us-east-2.amazonaws.com/maven/java-webapp-repo//</url>
+    <url>https://https://java-webapp-maven-repo-019150360982.d.codeartifact.us-east-2.amazonaws.com/maven/java-webapp-repo/</url>
       </repository>
     </repositories>
   </profile>
@@ -26,7 +26,7 @@
 <mirrors>
   <mirror>
     <id>codeartifact</id>
-    <name>java-webapp-maven-repo-maven-central-store</name>
+    <name>java-webapp-maven-repo-java-webapp-repo</name>
     <url>https://java-webapp-maven-repo-019150360982.d.codeartifact.us-east-2.amazonaws.com/maven/java-webapp-repo/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
